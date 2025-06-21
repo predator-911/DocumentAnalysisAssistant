@@ -47,7 +47,7 @@ pip (Python package manager)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/advanced-document-analyzer.git
+git clone https://github.com/predator-911/DocumentAnalysisAssistant.git
 cd advanced-document-analyzer
 ```
 
@@ -62,7 +62,7 @@ python app.py
 ```
 
 4. **Open your browser**
-Navigate to `http://localhost:7860` to access the application.
+Navigate to `https://huggingface.co/spaces/Lakshay911/DocumentAnalysisAssistant` to access the application.
 
 ## 📦 Dependencies
 
