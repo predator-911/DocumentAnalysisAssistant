@@ -105,9 +105,7 @@ requests>=2.28.0
 ├── 📄 app.py                 # Main application file
 ├── 📄 requirements.txt       # Python dependencies
 ├── 📄 README.md             # This file
-├── 📁 models/               # AI model configurations
-├── 📁 static/               # CSS and JS assets
-└── 📁 uploads/              # Temporary file storage
+
 ```
 
 ## 🔧 Configuration
@@ -270,7 +268,7 @@ A: No, all processing happens in memory. Files are automatically deleted after p
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/advanced-document-analyzer&type=Date)](https://star-history.com/#yourusername/advanced-document-analyzer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=predator-911/DocumentAnalysisAssistant&type=Date)](https://star-history.com/#predator-911/DocumentAnalysisAssistant&Date)
 
 ---
 
