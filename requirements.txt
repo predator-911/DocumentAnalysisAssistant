@@ -1,0 +1,11 @@
+gradio
+PyPDF2
+sentence-transformers
+scikit-learn
+nltk
+numpy
+requests
+transformers
+torch
+torchvision
+torchaudio
